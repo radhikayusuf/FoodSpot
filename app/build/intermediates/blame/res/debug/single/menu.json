@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/home/radhikayusuf/FoodSpot/app/build/intermediates/res/merged/debug/menu/menu_profile.xml",
+        "source": "/home/radhikayusuf/FoodSpot/app/src/main/res/menu/menu_profile.xml"
+    },
+    {
+        "merged": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/build/intermediates/res/merged/debug/menu/menu_btn.xml",
+        "source": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/src/main/res/menu/menu_btn.xml"
+    },
+    {
+        "merged": "/home/radhikayusuf/FoodSpot/app/build/intermediates/res/merged/debug/menu/activity_main_drawer.xml",
+        "source": "/home/radhikayusuf/FoodSpot/app/src/main/res/menu/activity_main_drawer.xml"
+    },
+    {
+        "merged": "/home/radhikayusuf/FoodSpot/app/build/intermediates/res/merged/debug/menu/menu_btn.xml",
+        "source": "/home/radhikayusuf/FoodSpot/app/src/main/res/menu/menu_btn.xml"
+    },
+    {
+        "merged": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/build/intermediates/res/merged/debug/menu/menu_profile.xml",
+        "source": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/src/main/res/menu/menu_profile.xml"
+    },
+    {
+        "merged": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/build/intermediates/res/merged/debug/menu/activity_main_drawer.xml",
+        "source": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/src/main/res/menu/activity_main_drawer.xml"
+    },
+    {
+        "merged": "/home/radhikayusuf/FoodSpot/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/home/radhikayusuf/FoodSpot/app/src/main/res/menu/main.xml"
+    }
+]

@@ -1,0 +1,49 @@
+<android.support.v4.widget.SwipeRefreshLayout
+    android:id="@+id/swiper"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    >
+    <FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Fragments.TimeLine">
+
+    <!-- TODO: Update blank fragment layout -->
+    <android.support.v7.widget.RecyclerView android:id="@+id/rc_content"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+    </android.support.v7.widget.RecyclerView>
+
+
+        <LinearLayout
+            android:visibility="gone"
+            android:layout_marginTop="50dp"
+            android:id="@+id/linearCek"
+            android:layout_gravity="center_horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAlignment="center"
+                android:textSize="24dp"
+                android:text="You are not subscribe anyone"/>
+            <Button android:id="@+id/btnFindRestaurnt"
+                android:layout_margin="10dp"
+                android:layout_gravity="center"
+                android:textSize="10dp"
+                android:text="Find Restaurant"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+        </LinearLayout>
+
+</FrameLayout>
+</android.support.v4.widget.SwipeRefreshLayout>

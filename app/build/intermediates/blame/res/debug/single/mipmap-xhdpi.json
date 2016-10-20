@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
+        "source": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/radhikayusuf/FoodSpot/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
+        "source": "/home/radhikayusuf/FoodSpot/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    }
+]

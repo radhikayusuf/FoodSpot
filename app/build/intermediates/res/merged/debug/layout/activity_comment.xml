@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    tools:context="com.foodspot.root.myapp.CommentActivity">
+
+    <RelativeLayout android:id="@+id/rl_sicontent"
+        android:background="@color/senjata"
+        android:layout_width="match_parent"
+        android:layout_height="500dp">
+
+        <TextView
+            android:textColor="#fff"
+            android:id="@+id/comment_judul"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="20dp"
+            android:paddingBottom="10dp"
+            android:textSize="20dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="De'Peresto" />
+
+        <ImageView android:id="@+id/comment_img_content"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="15dp"
+            android:layout_below="@id/comment_judul"
+            android:scaleType="centerCrop"
+            android:layout_width="match_parent"
+            android:layout_height="300dp" />
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:layout_margin="10dp"
+            android:layout_below="@id/comment_img_content"
+            android:id="@+id/comment_pic_profile"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            />
+
+        <TextView
+            android:textColor="#fff"
+            android:layout_below="@id/comment_img_content"
+            android:id="@+id/comment_name_profile"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:textSize="16dp"
+            android:layout_toRightOf="@id/comment_pic_profile"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Name"/>
+
+        <TextView android:id="@+id/comment_date"
+            android:textColor="#fff"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_toRightOf="@id/comment_pic_profile"
+            android:layout_below="@id/comment_name_profile"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="10dp"
+            android:text="Saturday, 2 July 2016 / 16:30"/>
+
+        <ImageButton android:id="@+id/deleteStatus"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_delete_white_24dp"
+            android:background="@android:color/transparent"
+            android:layout_alignBottom="@+id/comment_pic_profile"
+            android:layout_alignRight="@+id/comment_btnRating"
+            android:layout_alignEnd="@+id/comment_btnRating" />
+
+        <TextView android:id="@+id/comment_numlike"
+            android:textSize="12dp"
+            android:textColor="#fff"
+            android:layout_margin="10dp"
+            android:layout_toRightOf="@+id/comment_date"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:text="6 People Likes this"/>
+
+        <ImageButton android:id="@+id/comment_btnRating"
+            android:layout_marginTop="20dp"
+            android:paddingBottom="10dp"
+            android:layout_marginRight="20dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"/>
+
+    </RelativeLayout>
+
+
+
+    <android.support.v7.widget.RecyclerView
+        android:layout_marginTop="10dp"
+        android:id="@+id/rc_comment"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/rl_sicontent"
+        android:layout_alignLeft="@+id/rl_sicontent"
+        android:layout_alignStart="@+id/rl_sicontent">
+
+    </android.support.v7.widget.RecyclerView>
+
+    <LinearLayout
+        android:layout_margin="10dp"
+        android:layout_below="@id/rc_comment"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_alignParentBottom="true">
+            <EditText android:id="@+id/etComment"
+                android:layout_width="wrap_content"
+                android:layout_height="50dp"
+                android:layout_weight="1"/>
+            <ImageButton android:id="@+id/comment_btnSubmit"
+                android:padding="25dp"
+                android:scaleType="centerCrop"
+                android:background="@drawable/ic_menu_send"
+                android:layout_width="wrap_content"
+                android:layout_height="50dp" />
+    </LinearLayout>
+</RelativeLayout>
+
+</ScrollView>

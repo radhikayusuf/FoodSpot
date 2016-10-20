@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "849399660176",
+    "firebase_url": "https://foodspot-143200.firebaseio.com",
+    "project_id": "foodspot-143200",
+    "storage_bucket": "foodspot-143200.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:849399660176:android:982be68c5e20a15f",
+        "android_client_info": {
+          "package_name": "com.foodspot.root.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "849399660176-qpeqkuq5lqp0kep3134u9o7s743a12s8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.foodspot.root.myapp",
+            "certificate_hash": "993E93B4D7F792A0582DF11558A49AFEB7D8D513"
+          }
+        },
+        {
+          "client_id": "849399660176-p4kr9reltqdadreeopoec2hjh30s2mc9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBz4i9cwMDyEvG5LA3mMo7S2YHQQ7Ao1O4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "849399660176-p4kr9reltqdadreeopoec2hjh30s2mc9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

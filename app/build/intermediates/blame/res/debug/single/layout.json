@@ -1,0 +1,610 @@
+[
+    {
+        "merged": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-beta1/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/build/intermediates/res/merged/debug/layout/fragment_timeline.xml",
+        "source": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/src/main/res/layout/fragment_timeline.xml"
+    },
+    {
+        "merged": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-beta1/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-beta1/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/home/radhikayusuf/FoodSpot/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/home/radhikayusuf/FoodSpot/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-beta1/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/home/radhikayusuf/FoodSpot/app/build/intermediates/res/merged/debug/layout/toolbar_layout.xml",
+        "source": "/home/radhikayusuf/FoodSpot/app/src/main/res/layout/toolbar_layout.xml"
+    },
+    {
+        "merged": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/build/intermediates/res/merged/debug/layout/activity_search_restaurant.xml",
+        "source": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/src/main/res/layout/activity_search_restaurant.xml"
+    },
+    {
+        "merged": "/home/radhikayusuf/FoodSpot/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/home/radhikayusuf/FoodSpot/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-beta1/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/build/intermediates/res/merged/debug/layout/activity_profile.xml",
+        "source": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/src/main/res/layout/activity_profile.xml"
+    },
+    {
+        "merged": "/home/radhikayusuf/FoodSpot/app/build/intermediates/res/merged/debug/layout/activity_login.xml",
+        "source": "/home/radhikayusuf/FoodSpot/app/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/home/radhikayusuf/FoodSpot/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/home/radhikayusuf/FoodSpot/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-beta1/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/build/intermediates/res/merged/debug/layout/design_menu_item_action_area.xml",
+        "source": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/build/intermediates/exploded-aar/com.android.support/design/24.0.0-beta1/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/build/intermediates/res/merged/debug/layout/card_profile.xml",
+        "source": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/src/main/res/layout/card_profile.xml"
+    },
+    {
+        "merged": "/home/radhikayusuf/FoodSpot/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/home/radhikayusuf/FoodSpot/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-beta1/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/build/intermediates/res/merged/debug/layout/content_main.xml",
+        "source": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/src/main/res/layout/content_main.xml"
+    },
+    {
+        "merged": "/home/radhikayusuf/FoodSpot/app/build/intermediates/res/merged/debug/layout/card_comment.xml",
+        "source": "/home/radhikayusuf/FoodSpot/app/src/main/res/layout/card_comment.xml"
+    },
+    {
+        "merged": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/build/intermediates/res/merged/debug/layout/content_profile.xml",
+        "source": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/src/main/res/layout/content_profile.xml"
+    },
+    {
+        "merged": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-beta1/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-beta1/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/home/radhikayusuf/FoodSpot/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/home/radhikayusuf/FoodSpot/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-beta1/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/radhikayusuf/FoodSpot/app/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
+        "source": "/home/radhikayusuf/FoodSpot/app/build/intermediates/exploded-aar/com.android.support/design/24.0.0-beta1/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/home/radhikayusuf/FoodSpot/app/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
+        "source": "/home/radhikayusuf/FoodSpot/app/build/intermediates/exploded-aar/com.android.support/design/24.0.0-beta1/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
+        "source": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/build/intermediates/exploded-aar/com.android.support/design/24.0.0-beta1/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/radhikayusuf/FoodSpot/app/build/intermediates/res/merged/debug/layout/toolbar_insert.xml",
+        "source": "/home/radhikayusuf/FoodSpot/app/src/main/res/layout/toolbar_insert.xml"
+    },
+    {
+        "merged": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-beta1/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/home/radhikayusuf/FoodSpot/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/home/radhikayusuf/FoodSpot/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-beta1/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/build/intermediates/res/merged/debug/layout/fragment_maps.xml",
+        "source": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/src/main/res/layout/fragment_maps.xml"
+    },
+    {
+        "merged": "/home/radhikayusuf/FoodSpot/app/build/intermediates/res/merged/debug/layout/design_menu_item_action_area.xml",
+        "source": "/home/radhikayusuf/FoodSpot/app/build/intermediates/exploded-aar/com.android.support/design/24.0.0-beta1/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/home/radhikayusuf/FoodSpot/app/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
+        "source": "/home/radhikayusuf/FoodSpot/app/build/intermediates/exploded-aar/com.android.support/design/24.0.0-beta1/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/home/radhikayusuf/FoodSpot/app/build/intermediates/res/merged/debug/layout/notification_template_lines.xml",
+        "source": "/home/radhikayusuf/FoodSpot/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-beta1/res/layout/notification_template_lines.xml"
+    },
+    {
+        "merged": "/home/radhikayusuf/FoodSpot/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/home/radhikayusuf/FoodSpot/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-beta1/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/home/radhikayusuf/FoodSpot/app/build/intermediates/res/merged/debug/layout/activity_buff_image.xml",
+        "source": "/home/radhikayusuf/FoodSpot/app/src/main/res/layout/activity_buff_image.xml"
+    },
+    {
+        "merged": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-beta1/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
+        "source": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/build/intermediates/exploded-aar/com.android.support/design/24.0.0-beta1/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-beta1/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/home/radhikayusuf/FoodSpot/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/home/radhikayusuf/FoodSpot/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-beta1/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/build/intermediates/res/merged/debug/layout/notification_template_lines.xml",
+        "source": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-beta1/res/layout/notification_template_lines.xml"
+    },
+    {
+        "merged": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-beta1/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/home/radhikayusuf/FoodSpot/app/build/intermediates/res/merged/debug/layout/activity_insert_post.xml",
+        "source": "/home/radhikayusuf/FoodSpot/app/src/main/res/layout/activity_insert_post.xml"
+    },
+    {
+        "merged": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/build/intermediates/res/merged/debug/layout/app_bar_main.xml",
+        "source": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/src/main/res/layout/app_bar_main.xml"
+    },
+    {
+        "merged": "/home/radhikayusuf/FoodSpot/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/home/radhikayusuf/FoodSpot/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-beta1/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/home/radhikayusuf/FoodSpot/app/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
+        "source": "/home/radhikayusuf/FoodSpot/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-beta1/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/build/intermediates/res/merged/debug/layout/card_mystatus.xml",
+        "source": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/src/main/res/layout/card_mystatus.xml"
+    },
+    {
+        "merged": "/home/radhikayusuf/FoodSpot/app/build/intermediates/res/merged/debug/layout/nav_header_main.xml",
+        "source": "/home/radhikayusuf/FoodSpot/app/src/main/res/layout/nav_header_main.xml"
+    },
+    {
+        "merged": "/home/radhikayusuf/FoodSpot/app/build/intermediates/res/merged/debug/layout/spinner_jenis_user.xml",
+        "source": "/home/radhikayusuf/FoodSpot/app/src/main/res/layout/spinner_jenis_user.xml"
+    },
+    {
+        "merged": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/build/intermediates/res/merged/debug/layout/toolbar_maps.xml",
+        "source": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/src/main/res/layout/toolbar_maps.xml"
+    },
+    {
+        "merged": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-beta1/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-beta1/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml",
+        "source": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/build/intermediates/exploded-aar/com.android.support/design/24.0.0-beta1/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/build/intermediates/res/merged/debug/layout/activity_buff_image.xml",
+        "source": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/src/main/res/layout/activity_buff_image.xml"
+    },
+    {
+        "merged": "/home/radhikayusuf/FoodSpot/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/home/radhikayusuf/FoodSpot/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-beta1/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/radhikayusuf/FoodSpot/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/home/radhikayusuf/FoodSpot/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-beta1/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/home/radhikayusuf/FoodSpot/app/build/intermediates/res/merged/debug/layout/content_profile.xml",
+        "source": "/home/radhikayusuf/FoodSpot/app/src/main/res/layout/content_profile.xml"
+    },
+    {
+        "merged": "/home/radhikayusuf/FoodSpot/app/build/intermediates/res/merged/debug/layout/toolbar_maps.xml",
+        "source": "/home/radhikayusuf/FoodSpot/app/src/main/res/layout/toolbar_maps.xml"
+    },
+    {
+        "merged": "/home/radhikayusuf/FoodSpot/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/home/radhikayusuf/FoodSpot/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-beta1/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-beta1/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml",
+        "source": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/build/intermediates/exploded-aar/com.android.support/design/24.0.0-beta1/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/home/radhikayusuf/FoodSpot/app/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
+        "source": "/home/radhikayusuf/FoodSpot/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-beta1/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/build/intermediates/res/merged/debug/layout/nav_header_main.xml",
+        "source": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/src/main/res/layout/nav_header_main.xml"
+    },
+    {
+        "merged": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/build/intermediates/res/merged/debug/layout/activity_insert_post.xml",
+        "source": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/src/main/res/layout/activity_insert_post.xml"
+    },
+    {
+        "merged": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-beta1/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/home/radhikayusuf/FoodSpot/app/build/intermediates/res/merged/debug/layout/activity_comment.xml",
+        "source": "/home/radhikayusuf/FoodSpot/app/src/main/res/layout/activity_comment.xml"
+    },
+    {
+        "merged": "/home/radhikayusuf/FoodSpot/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/home/radhikayusuf/FoodSpot/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-beta1/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/home/radhikayusuf/FoodSpot/app/build/intermediates/res/merged/debug/layout/activity_maps.xml",
+        "source": "/home/radhikayusuf/FoodSpot/app/src/main/res/layout/activity_maps.xml"
+    },
+    {
+        "merged": "/home/radhikayusuf/FoodSpot/app/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml",
+        "source": "/home/radhikayusuf/FoodSpot/app/build/intermediates/exploded-aar/com.android.support/design/24.0.0-beta1/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
+        "source": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-beta1/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/home/radhikayusuf/FoodSpot/app/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
+        "source": "/home/radhikayusuf/FoodSpot/app/build/intermediates/exploded-aar/com.android.support/design/24.0.0-beta1/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/home/radhikayusuf/FoodSpot/app/build/intermediates/res/merged/debug/layout/activity_setting.xml",
+        "source": "/home/radhikayusuf/FoodSpot/app/src/main/res/layout/activity_setting.xml"
+    },
+    {
+        "merged": "/home/radhikayusuf/FoodSpot/app/build/intermediates/res/merged/debug/layout/fragment_maps.xml",
+        "source": "/home/radhikayusuf/FoodSpot/app/src/main/res/layout/fragment_maps.xml"
+    },
+    {
+        "merged": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/build/intermediates/res/merged/debug/layout/fragment_loved_restaurant.xml",
+        "source": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/src/main/res/layout/fragment_loved_restaurant.xml"
+    },
+    {
+        "merged": "/home/radhikayusuf/FoodSpot/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/home/radhikayusuf/FoodSpot/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-beta1/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-beta1/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/home/radhikayusuf/FoodSpot/app/build/intermediates/res/merged/debug/layout/content_main.xml",
+        "source": "/home/radhikayusuf/FoodSpot/app/src/main/res/layout/content_main.xml"
+    },
+    {
+        "merged": "/home/radhikayusuf/FoodSpot/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml",
+        "source": "/home/radhikayusuf/FoodSpot/app/build/intermediates/exploded-aar/com.android.support/design/24.0.0-beta1/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/home/radhikayusuf/FoodSpot/app/build/intermediates/res/merged/debug/layout/activity_signup.xml",
+        "source": "/home/radhikayusuf/FoodSpot/app/src/main/res/layout/activity_signup.xml"
+    },
+    {
+        "merged": "/home/radhikayusuf/FoodSpot/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/home/radhikayusuf/FoodSpot/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-beta1/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/home/radhikayusuf/FoodSpot/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/home/radhikayusuf/FoodSpot/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-beta1/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-beta1/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/home/radhikayusuf/FoodSpot/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/home/radhikayusuf/FoodSpot/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-beta1/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-beta1/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/build/intermediates/res/merged/debug/layout/cardview_content.xml",
+        "source": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/src/main/res/layout/cardview_content.xml"
+    },
+    {
+        "merged": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
+        "source": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-beta1/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/home/radhikayusuf/FoodSpot/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/home/radhikayusuf/FoodSpot/app/build/intermediates/exploded-aar/com.android.support/design/24.0.0-beta1/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-beta1/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/home/radhikayusuf/FoodSpot/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/home/radhikayusuf/FoodSpot/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-beta1/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-beta1/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-beta1/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/home/radhikayusuf/FoodSpot/app/build/intermediates/res/merged/debug/layout/card_profile.xml",
+        "source": "/home/radhikayusuf/FoodSpot/app/src/main/res/layout/card_profile.xml"
+    },
+    {
+        "merged": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-beta1/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/home/radhikayusuf/FoodSpot/app/build/intermediates/res/merged/debug/layout/app_bar_main.xml",
+        "source": "/home/radhikayusuf/FoodSpot/app/src/main/res/layout/app_bar_main.xml"
+    },
+    {
+        "merged": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-beta1/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
+        "source": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/build/intermediates/exploded-aar/com.android.support/design/24.0.0-beta1/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/home/radhikayusuf/FoodSpot/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/home/radhikayusuf/FoodSpot/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-beta1/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/build/intermediates/res/merged/debug/layout/toolbar_insert.xml",
+        "source": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/src/main/res/layout/toolbar_insert.xml"
+    },
+    {
+        "merged": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/build/intermediates/res/merged/debug/layout/fragment_profile.xml",
+        "source": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/src/main/res/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
+        "source": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/build/intermediates/exploded-aar/com.android.support/design/24.0.0-beta1/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
+        "source": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-beta1/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/home/radhikayusuf/FoodSpot/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/home/radhikayusuf/FoodSpot/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-beta1/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/home/radhikayusuf/FoodSpot/app/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
+        "source": "/home/radhikayusuf/FoodSpot/app/build/intermediates/exploded-aar/com.android.support/design/24.0.0-beta1/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/home/radhikayusuf/FoodSpot/app/build/intermediates/res/merged/debug/layout/fragment_profile.xml",
+        "source": "/home/radhikayusuf/FoodSpot/app/src/main/res/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/build/intermediates/exploded-aar/com.android.support/design/24.0.0-beta1/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-beta1/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-beta1/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-beta1/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-beta1/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/home/radhikayusuf/FoodSpot/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/home/radhikayusuf/FoodSpot/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-beta1/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-beta1/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/build/intermediates/res/merged/debug/layout/card_comment.xml",
+        "source": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/src/main/res/layout/card_comment.xml"
+    },
+    {
+        "merged": "/home/radhikayusuf/FoodSpot/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/home/radhikayusuf/FoodSpot/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-beta1/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/home/radhikayusuf/FoodSpot/app/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
+        "source": "/home/radhikayusuf/FoodSpot/app/build/intermediates/exploded-aar/com.android.support/design/24.0.0-beta1/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/home/radhikayusuf/FoodSpot/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/home/radhikayusuf/FoodSpot/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-beta1/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/home/radhikayusuf/FoodSpot/app/build/intermediates/res/merged/debug/layout/fragment_timeline.xml",
+        "source": "/home/radhikayusuf/FoodSpot/app/src/main/res/layout/fragment_timeline.xml"
+    },
+    {
+        "merged": "/home/radhikayusuf/FoodSpot/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/home/radhikayusuf/FoodSpot/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-beta1/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-beta1/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/home/radhikayusuf/FoodSpot/app/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
+        "source": "/home/radhikayusuf/FoodSpot/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-beta1/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/home/radhikayusuf/FoodSpot/app/build/intermediates/res/merged/debug/layout/cardview_content.xml",
+        "source": "/home/radhikayusuf/FoodSpot/app/src/main/res/layout/cardview_content.xml"
+    },
+    {
+        "merged": "/home/radhikayusuf/FoodSpot/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/home/radhikayusuf/FoodSpot/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-beta1/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/home/radhikayusuf/FoodSpot/app/build/intermediates/res/merged/debug/layout/fragment_loved_restaurant.xml",
+        "source": "/home/radhikayusuf/FoodSpot/app/src/main/res/layout/fragment_loved_restaurant.xml"
+    },
+    {
+        "merged": "/home/radhikayusuf/FoodSpot/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/home/radhikayusuf/FoodSpot/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-beta1/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/home/radhikayusuf/FoodSpot/app/build/intermediates/res/merged/debug/layout/design_bottom_sheet_dialog.xml",
+        "source": "/home/radhikayusuf/FoodSpot/app/build/intermediates/exploded-aar/com.android.support/design/24.0.0-beta1/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
+        "source": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/build/intermediates/exploded-aar/com.android.support/design/24.0.0-beta1/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-beta1/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/radhikayusuf/FoodSpot/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/home/radhikayusuf/FoodSpot/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-beta1/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/home/radhikayusuf/FoodSpot/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/home/radhikayusuf/FoodSpot/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-beta1/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-beta1/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/home/radhikayusuf/FoodSpot/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/home/radhikayusuf/FoodSpot/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-beta1/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/build/intermediates/res/merged/debug/layout/activity_signup.xml",
+        "source": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/src/main/res/layout/activity_signup.xml"
+    },
+    {
+        "merged": "/home/radhikayusuf/FoodSpot/app/build/intermediates/res/merged/debug/layout/activity_profile.xml",
+        "source": "/home/radhikayusuf/FoodSpot/app/src/main/res/layout/activity_profile.xml"
+    },
+    {
+        "merged": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/build/intermediates/res/merged/debug/layout/activity_login.xml",
+        "source": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/home/radhikayusuf/FoodSpot/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/home/radhikayusuf/FoodSpot/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-beta1/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/home/radhikayusuf/FoodSpot/app/build/intermediates/res/merged/debug/layout/activity_search_restaurant.xml",
+        "source": "/home/radhikayusuf/FoodSpot/app/src/main/res/layout/activity_search_restaurant.xml"
+    },
+    {
+        "merged": "/home/radhikayusuf/FoodSpot/app/build/intermediates/res/merged/debug/layout/card_mystatus.xml",
+        "source": "/home/radhikayusuf/FoodSpot/app/src/main/res/layout/card_mystatus.xml"
+    },
+    {
+        "merged": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-beta1/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/home/radhikayusuf/FoodSpot/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/radhikayusuf/FoodSpot/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/radhikayusuf/FoodSpot/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/home/radhikayusuf/FoodSpot/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-beta1/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/build/intermediates/res/merged/debug/layout/activity_setting.xml",
+        "source": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/src/main/res/layout/activity_setting.xml"
+    },
+    {
+        "merged": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
+        "source": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/build/intermediates/exploded-aar/com.android.support/design/24.0.0-beta1/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/home/radhikayusuf/FoodSpot/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/home/radhikayusuf/FoodSpot/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-beta1/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-beta1/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/build/intermediates/res/merged/debug/layout/activity_maps.xml",
+        "source": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/src/main/res/layout/activity_maps.xml"
+    },
+    {
+        "merged": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
+        "source": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/build/intermediates/exploded-aar/com.android.support/design/24.0.0-beta1/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/build/intermediates/res/merged/debug/layout/spinner_jenis_user.xml",
+        "source": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/src/main/res/layout/spinner_jenis_user.xml"
+    },
+    {
+        "merged": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-beta1/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-beta1/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/build/intermediates/res/merged/debug/layout/activity_comment.xml",
+        "source": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/src/main/res/layout/activity_comment.xml"
+    },
+    {
+        "merged": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/build/intermediates/res/merged/debug/layout/design_bottom_sheet_dialog.xml",
+        "source": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/build/intermediates/exploded-aar/com.android.support/design/24.0.0-beta1/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/home/radhikayusuf/FoodSpot/app/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
+        "source": "/home/radhikayusuf/FoodSpot/app/build/intermediates/exploded-aar/com.android.support/design/24.0.0-beta1/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/home/radhikayusuf/FoodSpot/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/home/radhikayusuf/FoodSpot/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-beta1/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/build/intermediates/res/merged/debug/layout/toolbar_layout.xml",
+        "source": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/src/main/res/layout/toolbar_layout.xml"
+    },
+    {
+        "merged": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-beta1/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/radhikayusuf/FoodSpot/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/home/radhikayusuf/FoodSpot/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-beta1/res/layout/abc_alert_dialog_button_bar_material.xml"
+    }
+]

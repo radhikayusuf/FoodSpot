@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/radhikayusuf/FoodSpot/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/home/radhikayusuf/FoodSpot/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/radhikayusuf/FoodSpot/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/logo.png",
+        "source": "/home/radhikayusuf/FoodSpot/app/src/main/res/mipmap-xxhdpi/logo.png"
+    },
+    {
+        "merged": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/logo.png",
+        "source": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/src/main/res/mipmap-xxhdpi/logo.png"
+    },
+    {
+        "merged": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/media/ExtraPartition/AndroidStudioProject/Backup/backup/FoodSpot/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    }
+]
